@@ -1,4 +1,4 @@
-# starfire-pcb
+# solstice-core-starfire-pcb
 #0701 Solstice *Starfire* Eagle PCB
 
 PCB files for the **Circuit Monkey** *StarFire* (#0701)  **Solstice Core** *Module*
