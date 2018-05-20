@@ -1,7 +1,7 @@
 # solstice-core-starfire-pcb
-#0701 Solstice *Starfire* Eagle PCB
+Solstice Design System —  *Starfire* Core —  Eagle PCB
 
-PCB files for the **Circuit Monkey** *StarFire* (#0701)  **Solstice Core** *Module*
+PCB files for the **Circuit Monkey** *StarFire*  **Solstice Core** *Module*
 
 Format is EagleCAD schematic and board layout
 
