@@ -2183,7 +2183,7 @@ SMD type&lt;br&gt;</description>
 </deviceset>
 </devicesets>
 </library>
-<library name="CircuitMonkey-solaris">
+<library name="solstice-design-system">
 <packages>
 <package name="PCB-BASE-A1">
 <wire x1="-27" y1="-21" x2="27" y2="-21" width="0.01" layer="20"/>
@@ -3262,7 +3262,7 @@ SDA
 <part name="WS16" library="led" deviceset="NEOPPIXEL" device="5X5" value="WS2812"/>
 <part name="SUPPLY62" library="supply2" deviceset="VCC" device=""/>
 <part name="SUPPLY63" library="supply2" deviceset="VCC" device=""/>
-<part name="FAB" library="CircuitMonkey-solaris" deviceset="PCB-4-MTG" device="-BASE-B1" value="STARFIRE PCB"/>
+<part name="FAB" library="solstice-design-system" deviceset="PCB-4-MTG" device="-BASE-B1" value="STARFIRE PCB"/>
 <part name="SUPPLY58" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY59" library="supply2" deviceset="GND" device=""/>
 <part name="OPAMP" library="Seeed-IC" deviceset="AMPLIFIER-LMV358IDGKR(MSOP8)" device="" value="LMV358IDGKR-MSOP8"/>
