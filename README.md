@@ -11,6 +11,9 @@ For more details, check out the product page at
 
   * https://www.circuitmonkey.com/product/0701   ( [404 - not found] this link is not yet active)
 
+
+![PCB CAD Image](/images/pcb-image.png | width=200 )
+
 ### Revision Notes
 * Rev. 0 - Initial board design.  This revision was made for evaluation and only
 one unit ever made.
@@ -30,7 +33,7 @@ one unit ever made.
  * USB connector footprint does not match physical connector sourced using Seeed library information.
 
 
-##Designed by Circuit Monkey
+## Designed by Circuit Monkey
 Creative Commons Attribution, Share-Alike license, check license.txt for more information. Derivative of "Arduino Leonardo Reference design" (http://www.arduino.cc/en/Main/ArduinoBoardLeonardo)
 
 All text above must be included in any redistribution
