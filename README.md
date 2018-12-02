@@ -11,8 +11,7 @@ For more details, check out the product page at
 
   * https://www.circuitmonkey.com/product/0701   ( [404 - not found] this link is not yet active)
 
-
-![PCB CAD Image](images/pcb-image.png)
+<img src="images/pcb-image.png" width="360">
 
 ### Revision Notes
 * Rev. 0 - Initial board design.  This revision was made for evaluation and only
