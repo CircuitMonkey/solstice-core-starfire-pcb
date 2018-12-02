@@ -44,7 +44,7 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 All text above must be included in any redistribution
 
 ## Gallery
-![StarFire image](images/solstice-a-1.JPG | width=640)
-![StarFire image](images/solstice-a-2.JPG | width=640)
-![StarFire image](images/solstice-a-3.JPG | width=640)
-![StarFire image](images/solstice-a-4.JPG | width=640)
+![StarFire image](images/solstice-a-1.JPG \| width=640)
+![StarFire image](images/solstice-a-2.JPG \| width=640)
+![StarFire image](images/solstice-a-3.JPG \| width=640)
+![StarFire image](images/solstice-a-4.JPG \| width=640)
