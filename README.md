@@ -33,9 +33,6 @@ one unit ever made.
   * Added 330ohm serial resistor to external pixel output.
   * USB connector footprint issue addressed.  Footprint was correct, Seeed part number was incorrect.
 
-#### Rev A. Issues:
- * USB connector footprint does not match physical connector sourced using Seeed library information.
-
 
 ## Designed by Circuit Monkey in Las Vegas, Nevada, USA
 Creative Commons Attribution, Share-Alike license, check license.txt for more information. Derivative of "Arduino Leonardo Reference design" (http://www.arduino.cc/en/Main/ArduinoBoardLeonardo)
